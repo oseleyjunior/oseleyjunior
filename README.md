@@ -1,7 +1,7 @@
 - 👋 oi, eu sou o oseley junior
 - 👀 estudo curso técnico em informática 
 - 🌱 estudos e esportes
-- 💞️ vm
+-
 - 📫 instagram @oz_tavares
 
 <!---
